@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562148397411",
+    "project_id": "demodeltasoftevd1ser",
+    "storage_bucket": "demodeltasoftevd1ser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562148397411:android:59e90320f60ee00f020356",
+        "android_client_info": {
+          "package_name": "com.testwebviewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562148397411-23iag4j8cne4tt4arm8d34nv3ifh4hbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGLrP7aacTifG47CohSa_VIz-H3VvTEBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562148397411-23iag4j8cne4tt4arm8d34nv3ifh4hbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
